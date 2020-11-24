@@ -22,7 +22,7 @@ That's all you need to start a full project in React.
 
 🔸 Go to the directory ```cd react-starter```
 
-🔸 Run ```npm install```
+🔸 Run ```npm install``` and visit ```http://loclahost:9000```
 
 ## Command
 
