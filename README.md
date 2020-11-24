@@ -6,8 +6,6 @@ That's all you need to start a full project in React.
 
 ## Includes
 
----
-
 🔹 [ReactJS](https://reactjs.org) with [Webpack](https://webpack.js.org/)
 
 🔹 [TypeScript](https://www.typescriptlang.org)
@@ -20,17 +18,13 @@ That's all you need to start a full project in React.
 
 ## Installation
 
----
+🔸 Clone repository ```git clone https://github.com/Andy1Blue/react-starter.git```
 
-🔸 Clone repository ```git clone```
-
-🔸 Go to the directory ```cd```
+🔸 Go to the directory ```cd react-starter```
 
 🔸 Run ```npm install```
 
 ## Command
-
----
 
 |Description|Command|
 |---|---|
@@ -40,7 +34,5 @@ That's all you need to start a full project in React.
 |Run ESlint and fix the errors|```npm run lint:fix```|
 
 ## What's next
-
----
 
 The project will be develop all the time as needed.
