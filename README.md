@@ -24,6 +24,8 @@ That's all you need to start a full project in React.
 
 🔸 Go to the directory ```cd react-starter```
 
+🔸 Create .env file ```cp .env.example .env```
+
 🔸 Run ```npm install``` and ```npm start``` and visit ```http://localhost:9000```
 
 ## Docker
