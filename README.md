@@ -34,7 +34,7 @@ That's all you need to start a full project in React.
 - Run ```docker-compose -f docker-compose.yml up -d --build```
 - ... and just visit ```http://localhost:9000```
 
-## Command
+## Commands
 
 |Description|Command|
 |---|---|
