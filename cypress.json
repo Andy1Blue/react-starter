@@ -1,0 +1,15 @@
+{
+    "baseUrl": "http://localhost:9000",
+    "video": false,
+    "configFile": false,
+    "screenshotOnRunFailure": false,
+    "integrationFolder": "test/Browser/TestCases",
+    "testFiles": "**/*.spec.js",
+    "chromeWebSecurity": false,
+    "viewportWidth": 1280,
+    "viewportHeight": 720,
+    "retries": {
+      "runMode": 2,
+      "openMode": 2
+    }
+}
