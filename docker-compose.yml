@@ -1,0 +1,10 @@
+version: '3.7'
+
+services:
+  frontend:
+    container_name: react_starter
+    build:
+      context: .
+      dockerfile: dockerfile
+    ports:
+      - '9000:80'

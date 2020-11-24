@@ -16,13 +16,21 @@ That's all you need to start a full project in React.
 
 🔹 [ESlint](https://eslint.org) with [TypeScript](https://www.typescriptlang.org) support
 
+🔹 [Docker](https://docker.com)
+
 ## Installation
 
 🔸 Clone repository ```git clone https://github.com/Andy1Blue/react-starter.git```
 
 🔸 Go to the directory ```cd react-starter```
 
-🔸 Run ```npm install``` and visit ```http://loclahost:9000```
+🔸 Run ```npm install``` and visit ```http://localhost:9000```
+
+## Docker
+
+- Install [Docker](https://docs.docker.com/engine/install/) and [Docker-compose](https://docs.docker.com/compose/install/)
+- Run ```docker-compose -f docker-compose.yml up -d --build```
+- ... and just visit ```http://localhost:9000```
 
 ## Command
 
