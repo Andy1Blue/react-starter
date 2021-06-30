@@ -13,7 +13,7 @@ export const App = (props: Props) => (
     <p>
       <a
         className="github-button"
-        href="https://github.com/Andy1Blue/react-star"
+        href="https://github.com/Andy1Blue/react-starter"
         data-icon="octicon-star"
         data-size="large"
         aria-label="Star Andy1Blue/react-star on GitHub"
